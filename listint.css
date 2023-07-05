@@ -1,0 +1,47 @@
+h1 {
+  font-size: 40px;
+  color: #211d1d;
+}
+body {
+  background-color: red;
+}
+.listing_checkout_wrap > div > a {
+  color: #211d1d;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.listing_checkout_wrap {
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+  padding: 0 24px;
+  padding-bottom: 50px;
+}
+
+.order_details_tab {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
+}
+
+.listing_checkout_wrap select {
+  height: 40px;
+}
+
+.listing_checkout_wrap table {
+  width: 100% !important;
+}
+
+body > div > a:hover {
+  color: #042a32;
+}
+
+.tbl-order-users table select {
+  max-width: 400px;
+}
+
+.tbl-order-users table td,
+.tbl-order-users table th {
+  padding: 10px 0;
+}
